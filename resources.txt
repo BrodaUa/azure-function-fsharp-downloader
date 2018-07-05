@@ -1,0 +1,13 @@
+https://msdn.microsoft.com/en-us/library/system.drawing.image(v=vs.110).aspx
+http://www.fssnip.net/hv/title/Extending-async-with-await-on-tasks
+https://github.com/Azure/azure-webjobs-sdk/blob/master/src/Microsoft.Azure.WebJobs.Host/Bindings/Runtime/Binder.cs
+https://docs.microsoft.com/en-us/dotnet/fsharp/tutorials/asynchronous-and-concurrent-programming/async#for-the-cvb-programmer-looking-into-f
+https://stackoverflow.com/questions/39855409/how-do-i-use-binder-to-perform-dynamic-bindings-in-my-c-sharp-function/39855427#39855427
+https://www.jankowskimichal.pl/en/2018/02/azure-function-uploading-photos-to-azure-blob-storage/
+http://fsharp.github.io/FSharp.Data/reference/fsharp-data-csvfile.html
+http://fsharp.github.io/FSharp.Data/library/CsvFile.html
+http://fsharp.github.io/FSharp.Data/library/CsvProvider.html
+https://docs.microsoft.com/en-us/azure/azure-functions/functions-bindings-storage-blob#output
+https://docs.microsoft.com/en-us/azure/azure-functions/functions-reference-fsharp#importing-namespaces
+https://docs.microsoft.com/en-us/azure/azure-functions/functions-continuous-deployment#deployment-options
+https://stackoverflow.com/questions/27012651/scheduling-with-async-parallel

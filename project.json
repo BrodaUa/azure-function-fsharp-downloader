@@ -1,0 +1,11 @@
+{
+  "frameworks": {
+    "net46":{
+      "dependencies": {
+        "FSharp.Interop.Dynamic": "3.0.0",
+        "FSharp.Data": "2.3.2",
+        "Microsoft.Azure.WebJobs":"2.2.0"
+      }
+    }
+  }
+}
